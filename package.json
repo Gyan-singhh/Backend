@@ -1,0 +1,11 @@
+{
+  "name": "backend-h",
+  "version": "1.0.0",
+  "description": "starting a backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gyan Singh",
+  "license": "ISC"
+}
